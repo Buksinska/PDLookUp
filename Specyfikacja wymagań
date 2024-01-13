@@ -1,0 +1,22 @@
+Wymagania Funkcjonalne:
+WF1: Użytkownicy nie muszą się zarejestrować i zalogować, aby korzystać z oprogramowania.
+WF2: Oprogramowanie oblicza PD dla indywidualnych kredytów lub portfeli kredytowych.
+WF2.1: Integracja z bazami danych historycznych kredytów dla analizy.
+WF3: Tworzenie interaktywnych raportów i wizualizacji danych PD.
+WF3.1: Możliwość eksportu raportów do różnych formatów (PDF, Excel).
+WF4: Analiza i monitorowanie ryzyka na poziomie portfela.
+WF4.1: Wsparcie dla decyzji kredytowych poprzez dostarczanie szczegółowych informacji ryzyka.
+
+Wymagania Niefunkcjonalne:
+WNF1: Oprogramowanie dostępne 24/7 
+WNF2: Zastosowanie szyfrowania danych i bezpiecznej autentykacji.
+WNF2.1: Regularne aktualizacje bezpieczeństwa i łatki.
+WNF3: Optymalizacja kodu dla szybkich obliczeń i minimalnego zużycia zasobów.
+WNF3.1: Sprawne działanie nawet przy dużym wolumenie danych.
+WNF4.1: Dokumentacja użytkownika i wsparcie techniczne.
+WNF5: Kompatybilność z popularnymi systemami operacyjnymi i przeglądarkami internetowymi.
+WNF5.1: Możliwość integracji z istniejącymi systemami bankowymi.
+
+Wymagania Architektoniczne i Technologiczne:
+Stos technologiczny: R
+Architektura oparta na webie dla łatwego dostępu i integracji.
